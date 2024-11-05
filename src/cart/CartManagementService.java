@@ -1,0 +1,3 @@
+class forsomrtein{
+    pront "somenthing "
+}
