@@ -1,5 +1,16 @@
-testin g 2
-jaac java jajv
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
+
+
+
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+} 
 
 
 tetst
